@@ -1,2 +1,6 @@
 # apnacollege
-author-asha na
+this is my first repository
+<br>
+author-asha
+
+
